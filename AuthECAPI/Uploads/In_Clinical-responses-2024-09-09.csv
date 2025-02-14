@@ -1,0 +1,12 @@
+ResponseID,Score,referral_id,info,1. Were you greeted courteously by the front desk staff?,2. Did the staff treat you with dignity and respect?,3. Was the staff knowledgeable and professional?,4. Was the facility clean and accessible? ,5. What was your overall satisfaction with this in-clinic appointment?,6. Any additional comments concerning your clinic appointment experience?,Would you like someone from Leidos QTC Health Services to contact you about your exam service?
+123456,15,1b2e3e4f-5eeb-6a1a-7890-be12dedcb345,,3,3,3,3,3,,"No, do not contact me."
+123457,15,1b2e3e4f-5eeb-6a1a-7890-be12dedcb346,,3,3,3,3,3,,"No, do not contact me."
+123458,15,1b2e3e4f-5eeb-6a1a-7890-be12dedcb347,,3,3,3,3,3,,"No, do not contact me."
+123459,25,1b2e3e4f-5eeb-6a1a-7890-be12dedcb348,,5,5,5,5,5,,"No, do not contact me."
+123460,22,1b2e3e4f-5eeb-6a1a-7890-be12dedcb349,,3,4,5,5,5,,"			Yes, contact me via email"
+123461,22,1b2e3e4f-5eeb-6a1a-7890-be12dedcb350,,4,4,4,5,5,,"No, do not contact me."
+123462,25,1b2e3e4f-5eeb-6a1a-7890-be12dedcb351,,5,5,5,5,5,,"No, do not contact me."
+123463,11,1b2e3e4f-5eeb-6a1a-7890-be12dedcb352,,2,3,3,1,2,I was sent to an old address.  The new address was not provided to me.  The clinic staff drew blood and did nothing else.  This exam was entirely useless.,"			Yes, contact me via phone"
+123464,25,1b2e3e4f-5eeb-6a1a-7890-be12dedcb353,,5,5,5,5,5,,"No, do not contact me."
+123465,20,1b2e3e4f-5eeb-6a1a-7890-be12dedcb354,,3,4,4,4,5,,"No, do not contact me."
+123466,24,1b2e3e4f-5eeb-6a1a-7890-be12dedcb355,,5,5,5,4,5,,"			Yes, contact me via phone"
